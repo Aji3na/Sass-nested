@@ -20,9 +20,9 @@ body .hero-banner__content {
   margin: 0px 10%;
 }
 body .hero-banner__content__title {
-  font-size: 50px;
+  font-size: 40px;
   color: white;
-  margin: 10px 0px 30px 0px;
+  margin: 0;
   font-weight: 600;
 }
 @media screen and (max-width: 600px) {
@@ -80,7 +80,6 @@ body .service-card-item__title {
 }
 body .service-card-item__desc {
   font-size: 14px;
-  padding: 15px 0px;
   line-height: 1.5em;
 }
 body .service-card-item__button {
